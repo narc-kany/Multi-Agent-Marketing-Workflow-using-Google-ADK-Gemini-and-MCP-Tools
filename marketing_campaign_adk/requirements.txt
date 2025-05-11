@@ -1,0 +1,5 @@
+google-adk
+google-generativeai
+mcp-youtube-search
+litellm
+python-dotenv
